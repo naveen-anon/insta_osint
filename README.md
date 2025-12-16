@@ -50,7 +50,7 @@ pkg install python git -y
 pip install --upgrade pip
 pip install instaloader
 git clone https://github.com/naveen-anon/insta_osint.git
-cd instagram-osint-pro
+cd insta_osint
 python3 instagram-osint-pro.py
 
 
