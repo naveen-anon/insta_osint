@@ -51,7 +51,7 @@ pip install --upgrade pip
 pip install instaloader
 git clone https://github.com/naveen-anon/insta_osint.git
 cd insta_osint
-python3 instagram-osint-pro.py
+python3 insta-osint-pro.py
 
 
 
