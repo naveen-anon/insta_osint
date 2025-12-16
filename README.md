@@ -53,4 +53,6 @@ git clone https://github.com/naveen-anon/insta_osint.git
 cd instagram-osint-pro
 python3 instagram-osint-pro.py
 
-> - made by @naveen_anon 
+
+
+
