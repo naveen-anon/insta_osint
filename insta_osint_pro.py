@@ -67,7 +67,6 @@ def instagram_osint(username):
     print(f"Followers  : {profile.followers}")
     print(f"Following  : {profile.followees}")
     print(f"Posts      : {profile.mediacount}")
-    print(f"phone number :{profile.number}")
     # ---------- COLLECT ----------
     hashtags = set()
     numbers = set(extract_numbers(profile.biography))
